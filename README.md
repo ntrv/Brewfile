@@ -1,0 +1,2 @@
+# Brewfile
+Homebrew installing applications.
